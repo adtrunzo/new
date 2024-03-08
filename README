@@ -1,0 +1,32 @@
+Alexander Trunzo    
+
+702566956
+
+Contributions:
+project.h
+input.c
+inputtest.c
+main.c
+
+
+
+Rachel Ciganik
+
+702538596
+
+Contributions:
+output.c
+main.c
+some of input.c
+outputtest.c
+
+
+
+Project Description:
+For the something cool, we decided to do the etch a sketch. By moving the joystick, the LEDs will light up and you will be able to draw something on the pi. By pressing in on the joystick,
+the user will be able to change the color of the LEDs. The colors are white, red, green and blue.
+
+Usage Instructions:
+Push the joystick in to change the color of the LEDs. Then move thr joystick in any direction to draw a picture. To clear the dislay, bump the pi with your hand and the screen will go dark.
+Now you can draw on a clean screen.
+
